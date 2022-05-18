@@ -1,1 +1,1 @@
-web: gunicorn lab3_roject/lab3_poject.wsgi 
+web: gunicorn lab3_poject.wsgi 
